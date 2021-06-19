@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import SectionOne from './components/SectionOne';
 
 function App() {
